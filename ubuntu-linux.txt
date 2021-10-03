@@ -1,5 +1,3 @@
 I Love Linux
 I understand Linux
-[master 9d0b52e] Add another line of text
- 1 file changed, 1 insertion(+)
 I am the best in CLI command
